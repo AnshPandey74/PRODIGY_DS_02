@@ -1,4 +1,4 @@
-# Titanic Dataset EDA README
+# Titanic Dataset EDA
 
 ## Steps for README Documentation:
 1. Clone the repository.
