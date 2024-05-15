@@ -30,7 +30,6 @@
 These visualizations provide insights into the dataset, highlighting key factors influencing passenger survival on the Titanic.
 
 ## Conclusion:
-- The mean age of passengers is approximately 29.7 years, with a standard deviation of 14.5 years, indicating a wide age range.
 - Survival rate is around 38.4%, showing that less than half of the passengers survived.
 - Higher fares correlate with better survival chances.
 - Majority of passengers embarked from Southampton (S), and there were more males than females onboard.
