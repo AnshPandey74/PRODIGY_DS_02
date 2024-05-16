@@ -3,7 +3,7 @@
 ## Steps for README Documentation:
 1. Clone the repository.
 2. Ensure Python 3.x and required dependencies are installed.
-3. Open the EDA file (titanic.ipynb) in Jupyter Notebook.
+3. Open the EDA file (Prodigy_DS_02.ipynb) in Jupyter Notebook.
 4. Run cells to reproduce analysis and visualizations.
 
 ## Dataset Type:
